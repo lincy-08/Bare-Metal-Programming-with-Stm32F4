@@ -1,0 +1,39 @@
+!SESSION 2023-09-03 14:38:30.629 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-03 14:47:09.283
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-03 14:47:09.523
+!MESSAGE Log4j initialized with config file C:\Users\MRMC\Desktop\STM32F4 DOC\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-03 14:47:25.862
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-03 14:54:18.753
+!MESSAGE Indexed '0_ledtoggleaddress' (3 sources, 53 headers) in 6.67 sec: 1,949 declarations; 2,811 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+!SESSION 2023-09-08 09:17:02.898 -----------------------------------------------
+eclipse.buildId=Version 1.10.0
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-09-08 09:22:22.245
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-09-08 09:22:45.727
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-09-08 09:22:45.928
+!MESSAGE Log4j initialized with config file C:\Users\MRMC\Desktop\STM32F4 DOC\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-09-08 09:23:01.320
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-09-10 07:19:46.956
+!MESSAGE Indexed '0_ledtoggleaddress_struct' (3 sources, 0 headers) in 0.172 sec: 68 declarations; 89 references; 10 unresolved inclusions; 0 syntax errors; 31 unresolved names (16%)
